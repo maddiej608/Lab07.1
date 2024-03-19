@@ -1,0 +1,50 @@
+/* stylize title, large and scripty */
+h1 {
+  color: #ffb0d6; /* customized color with color picker for perfect match */
+  background: #b3205b;
+  width: 150px;
+  text-align: center;
+  padding: 3rem;
+  align-items: center;
+  margin: 20px auto;
+}
+
+/* style images , small and in line */
+img {
+  width: 120px;
+  margin: 1em;
+}
+body {
+  text-align:center;
+  background:#d4b2bf;
+}
+i {
+  font-size: 1.5rem;
+}
+/* stylize the section, large and easily readable font */ 
+
+span {
+ color: white;
+  background: #F06292;
+  width: 200px;
+  text-align: center;
+  padding: 3rem;
+  align-items: center;
+  margin: 20px auto;
+}
+p {
+  background: white;
+  padding: 1rem;
+  width: 200px;
+  margin: 20px auto;
+  color: pink;
+}
+div {
+  color:#872048; /* dark warm neutral color from color picker */
+ 
+  font family: roboto;
+  background:#c2889e;
+  padding: 2rem;
+  width: 100px;
+  margin: 10px auto;
+}
